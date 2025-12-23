@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://myqris.id">Website</a> •
-  <a href="https://github.com/myqris/qyu-app">App Repository</a>
+  <a href="https://myqris.id">Website</a>
 </p>
 
 ---
@@ -28,9 +27,11 @@
 
 ## Repositories
 
-| Repository | Deskripsi |
-|------------|-----------|
-| [qyu-app](https://github.com/myqris/qyu-app) | Frontend aplikasi MyQRIS |
+| Repository | Deskripsi | Status |
+|------------|-----------|--------|
+| qyu-app | Frontend aplikasi MyQRIS | 🔒 Private (Coming Soon as Open Source) |
+
+> We're working on open-sourcing our codebase. Stay tuned!
 
 ## Part of PT Cipta Dua Saudara
 
