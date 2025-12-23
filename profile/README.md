@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/myqris/qyu-app/main/public/logo-transparent.png" alt="MyQRIS Logo" width="150" />
+  <img src="https://raw.githubusercontent.com/myqris/.github/main/assets/logo-transparent.png" alt="MyQRIS Logo" width="150" />
 </p>
 
 <h1 align="center">MyQRIS</h1>
