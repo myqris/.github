@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://myqris.id">Website</a>
+  <a href="https://myqris.link">Website</a>
 </p>
 
 ---
